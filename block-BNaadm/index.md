@@ -3,7 +3,7 @@ writeCode
 #### Add to Assignment level 1
 
 Add comments to the blog application where
-
+..
 Each comment should have fields:
 
 - content of comment
